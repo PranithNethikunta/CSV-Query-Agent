@@ -2,3 +2,7 @@ langchain
 python-dotenv
 langchain-core
 langchain-community
+langchain-groq
+#langchain_ollama
+langchain-chroma
+langchain-huggingface
