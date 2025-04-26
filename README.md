@@ -7,10 +7,6 @@ In most retail and grocery operations,suppose sales data is scattered in Excel s
 
 **DASH solves this** by enabling users to ask **natural language questions** and receive instant **answers and reports**, all powered by AI and connected to multiple data sources in real time.
 
-# DataFrame Query Agent
-
-This project lets you ask natural language questions about your CSV file and get instant answers by automatically converting your questions into executable pandas code using a Groq LLM.
-
 ## Features
 - Load any CSV dataset
 - Automatically extract and understand dataset schema
